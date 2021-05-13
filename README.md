@@ -4,7 +4,7 @@ A Sample Flask Application With REST APIs
 **Setup and Run Locally**
 ---
 *Requirements:- Python 3.8+*<br>
-1) `git clone https://github.com/anonshubh/sample_rest_flask_application.git`
+1) `git clone https://github.com/Ulorewien/M2M_ex9.git`
 (For Developer: Use your Forked URL) 
 2) `cd sample_rest_flask_application`
 3) `python -m venv env`
